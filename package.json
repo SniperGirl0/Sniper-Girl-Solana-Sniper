@@ -1,0 +1,26 @@
+{
+  "name": "SniperGirl",
+  "version": "1.3.0",
+  "description": "Solana tool. Set your intended profit % to automatically sell once reached. Custom RPC support. Simply add your private key, the RPC you wish to use, and you're ready to go.",
+  "main": "SniperGirl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm update && node SniperGirl.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.9",
+    "@solana/web3.js": "^1.98.0",
+    "axios": "^1.7.9",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "bs58": "^6.0.0",
+    "dotenv": "^16.4.7",
+    "fs": "^0.0.1-security",
+    "inquirer": "latest",
+    "node-fetch": "^2.6.9",
+    "nodemailer": "^6.9.16",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
