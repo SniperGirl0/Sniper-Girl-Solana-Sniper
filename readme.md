@@ -1,5 +1,5 @@
 ## Sniper Girl: Deny, Defend, Depose sniping Bot – Fast Open Source Automated Trading Bot
-Sniper Girl is a Bot for automated trading on Pump.fun and Dex Screener and Dex Screener tokens. Designed to excel on the Solana blockchain, Sniper Girl detects new liquidity pools, executes trades with precision, and optimizes profits using customizable settings. 
+Sniper Girl is a Bot for automated trading on Pump.fun and Dex Screener tokens. Designed to excel on the Solana blockchain, Sniper Girl detects new liquidity pools, executes trades with precision, and optimizes profits using customizable settings. 
 
 ![.](pics/logo.png)
 
@@ -59,6 +59,7 @@ The dashboard isnt ready to be released yet but as you can see where the arrows 
 green is buy and red is sell. 
 ![](pics/snipe.png)
 ![.](pics/dashboard.png)
+
 SAM buy 2.16 SOl for SAM 65M
 SAM sold 6.57M for 2.18 SOL # Instant return on investment selling a fraction of the tokens
 SAM sold 4.82M for 1.97 SOL # More profit
